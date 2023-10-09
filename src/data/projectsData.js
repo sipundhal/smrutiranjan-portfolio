@@ -60,7 +60,7 @@ export const projectsData = [
     },
     {
         id: 6,
-        projectName: 'online course registration',
+        projectName: 'Online Course Registration',
         projectDesc: 'This project involves the development of an web application for allow student to register for subjects',
         tags: ['PHP', 'MYSQL','HTML','CSS','JS','BOOTSTRAP'],
         //code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
