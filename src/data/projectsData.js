@@ -88,7 +88,7 @@ export const projectsData = [
     {
         id: 9,
         projectName: 'Techsquare LSE',
-        projectDesc: 'This project involves the development of an web based Admin application where admin manage all natural product details with inquiries, notices, banners , users, and lots of permission based work with dual admin user management and ecommerce admin panel feature with lots of features.',
+        projectDesc: 'This project involves the development of an web based Admin application where admin manage all natural product details with inquiries, notices, banners , users, and lots of permission based work with dual admin user management.',
         tags: ['Vue Js', 'MYSQL','HTML','CSS','JS','Primevue','API Integration'],
         //code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         //demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
@@ -97,7 +97,7 @@ export const projectsData = [
     {
         id: 10,
         projectName: 'InsiseJobs Admin',
-        projectDesc: 'This project involves the development of an web based Admin application where admin manage all natural product details with inquiries, notices, banners , users, and lots of permission based work with dual admin user management . and provides job post and review feature in admin panel',
+        projectDesc: 'This project involves the development of an web based Admin application where admin manage all natural product details with inquiries, notices, banners , users, and lots of permission based work with dual admin user management .',
         tags: ['Vue Js', 'MYSQL','HTML','CSS','JS','Primevue','API Integration'],
         //code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         //demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
@@ -115,7 +115,7 @@ export const projectsData = [
     {
         id: 12,
         projectName: 'ARCosmetics',
-        projectDesc: 'This project involves the development of an web based Admin application where admin manage all natural product details with inquiries, notices, banners , users, and lots of permission based work with dual admin user management. it has a feature of scaning face property through mobile show the face property for each image and many more',
+        projectDesc: 'This project involves the development of an web based Admin application where admin manage all natural product details with inquiries, notices, banners , users, and lots of permission based work with dual admin user management.',
         tags: ['Vue Js', 'MYSQL','HTML','CSS','JS','Primevue','API Integration'],
         //code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
         //demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
