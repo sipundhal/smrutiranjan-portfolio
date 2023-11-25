@@ -49,4 +49,11 @@ export const experienceData = [
     startYear: "February 2022",
     endYear: "July 2023",
   },
+  {
+    id: 8,
+    company: "Deloitte",
+    jobtitle: "Senior Consultant Analyst",
+    startYear: "October 2023",
+    endYear: "Present",
+  },
 ];
