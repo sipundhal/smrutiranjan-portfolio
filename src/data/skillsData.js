@@ -18,7 +18,8 @@
     'Tailwind',
     'ViteJS',
     'VuetifyJS',
-    'Node JS'
+    'Node JS',
+    'PostgreSQL'
     
 ]
 

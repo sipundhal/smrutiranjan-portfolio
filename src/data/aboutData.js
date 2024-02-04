@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name is Smruti Ranjan . I'm a software developer based in Jajpur, Odisha.",
-    description2: "During my work and college time i work on java and php projects . im interested in software develoepr are with learning of new technology.",
+    description1: "Welcome to Smruti Ranjan Dhal's Digital Playground",
+    description2: "Greetings, fellow coders and curious minds! I am Smruti Ranjan Dhal, a passionate and results-driven software developer on a mission to turn innovative ideas into robust, scalable solutions. With a blend of creativity and technical prowess, I bring a unique perspective to the ever-evolving world of software development.",
     image: 2
 }
