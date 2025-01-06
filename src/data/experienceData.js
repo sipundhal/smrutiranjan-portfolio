@@ -1,10 +1,10 @@
 export const experienceData = [
   {
     id: 1,
-    company: "Deloitte",
+    company: "Deloitte India",
     jobtitle: "Senior Analyst",
     startYear: "October 2023",
-    endYear: "Present",
+    endYear: "October 2024",
   },
   {
     id: 2,
@@ -29,14 +29,14 @@ export const experienceData = [
   },
   {
     id: 5,
-    company: "Iserveu Technology",
+    company: "Iserveu Technology(Internship)",
     jobtitle: "Software Developer",
     startYear: "April 2020",
     endYear: "July 2020",
   },
   {
     id: 6,
-    company: "Codekart Technology",
+    company: "Codekart Technology(Internship)",
     jobtitle: "Web Developer",
     startYear: "June 2019",
     endYear: "August 2019",
