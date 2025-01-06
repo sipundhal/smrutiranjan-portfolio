@@ -24,6 +24,7 @@ function Experience() {
                             id={exp.id}
                             jobtitle={exp.jobtitle}
                             company={exp.company}
+                            skills={exp.skills}
                             startYear={exp.startYear}
                             endYear={exp.endYear}/>
                     ))}

@@ -5,6 +5,7 @@ export const experienceData = [
     jobtitle: "Senior Analyst",
     startYear: "October 2023",
     endYear: "October 2024",
+    skills: "React js,Redux,Hooks,Context API,Postman,API integration,UI Developer,Bootstrap,HTML,CSS,Git,Jira,Java Springboot"
   },
   {
     id: 2,
@@ -12,6 +13,7 @@ export const experienceData = [
     jobtitle: "Frontend Developer",
     startYear: "February 2022",
     endYear: "July 2023",
+    skills: "React js,Redux,Vue js,Figma,Miro,Postman,API integration,UI Developer,Bootstrap,HTML,CSS,Git,Notion"
   },
   {
     id: 3,
@@ -19,6 +21,7 @@ export const experienceData = [
     jobtitle: "Associate Software Engineer",
     startYear: "September 2021",
     endYear: "December 2021",
+    skills: "UI Developer,Bootstrap,HTML,CSS,Git,Jira,PHP Codeignitor,Mysql,Jira,ERP"
   },
   {
     id: 4,
@@ -26,6 +29,7 @@ export const experienceData = [
     jobtitle: "Vue Js Developer",
     startYear: "August 2020",
     endYear: "August 2021",
+    skills: "React js,Redux,Vuejs,Postman,API integration,UI Developer,Bootstrap,HTML,CSS,Git"
   },
   {
     id: 5,
